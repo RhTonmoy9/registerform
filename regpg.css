@@ -1,0 +1,151 @@
+html {
+	margin-top: 0px;
+}
+
+.background .regpg2{
+	margin-top: 0px;
+	height: 100%;
+	width: 100%;
+	opacity: 90%;
+	position: absolute;
+	filter: blur(5px);
+	z-index: -1;
+}
+.background {
+	margin-top: 0PX;
+}
+
+head {
+	margin-top: 0px;
+}
+
+body {
+	color: white;
+	font-family: "roboto", sans-serif;
+	margin-top: 0px;
+	padding: 0px;
+	font-size: 14px;
+	line-height: 24px;
+	background: rgb (213, 206, 188) ;
+	background-image:url('https://unsplash.com/photos/vngzm4P2BTs');
+}
+.signup {
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+
+.form {
+	margin-top: 0px;
+	margin-left: auto;
+	margin-bottom: 	auto;
+	margin-right: auto;
+	text-align: center;
+	background: linear-gradient(180deg, #262e7a 0%, rgba(14, 162, 182, 0.85 )100% );
+	background-color:100% ;
+	width: 36%;
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+	border-radius: 15px;
+	
+
+}
+.h1 {
+	background: 2px solid black;
+}
+
+.avatar img{
+	width: 80px;
+	height: 80px;
+	border: 1px solid black;
+	border-radius: 100%;
+	text-align: center;
+	margin-top: 24px;
+}
+.login	{	
+	width: 36%;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 18px;
+
+}
+
+.login a {
+	color: black;
+	background: lightgray;
+	text-decoration: none;
+	font-size: 18px;
+	background:none;
+	color: skyblue;
+	transition: 1.2s;
+}
+
+.login a:hover{
+	color: black;
+	background: skyblue;
+	font-weight: 700;
+
+}
+.form-sign {
+	padding-bottom:22px;
+	text-align: left;
+	font-size: 16px;
+	display: block;
+	margin-left: 70px;
+}
+
+.form-sign label {
+	display: block;
+	padding-bottom: 2px;
+}
+
+.form-sign input {
+	width: 90%;
+	height: 38px;
+	border-radius: 8px;
+	height: 28px;
+}
+
+.about-me input {
+	height: 52px;
+	width: 80%;
+	padding-bottom: 18px;
+	border-radius: 10px;
+	border:2px solid black;
+
+}
+.about-me label	{
+	display: block;
+	padding-bottom: 4px;
+	font-size: 16px;
+	text-align: left;
+	margin-left:70px;
+
+}
+
+.button .btn1{
+	border-radius: 4px;
+	font-size: 20px;
+	margin-top:25px;
+	margin-bottom:25px;
+	padding: 4px 16px;
+	cursor: pointer;
+	color: white;
+	background: #3a0ca3;
+	border: none;
+
+	transition: 1.2s;
+}
+.button .btn1:hover{
+	color: black;
+	background-color: skyblue;
+
+
+}
+
+.login	p {
+	color: white;
+	font-size: 20px;
+	text-align: left;
+	display: inline-block;
+
+}
